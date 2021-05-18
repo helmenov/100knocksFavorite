@@ -1,0 +1,6 @@
+[submodule "Gasyori100knock"]
+	path = Gasyori100knock
+	url = git@github.com:yoyoyo-yo/Gasyori100knock.git
+[submodule "100knocks-preprocess"]
+	path = 100knocks-preprocess
+	url = git@github.com:The-Japan-DataScientist-Society/100knocks-preprocess.git
